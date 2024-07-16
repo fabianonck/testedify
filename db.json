@@ -2,7 +2,7 @@
   "data": [
     {
       "id": 564082,
-      "nome": "ALBA REGINA VIANA DA SILVA",
+      "nome": "Alba Viana",
       "horariosVagos": [
         "09:00",
         "09:40",
@@ -15,12 +15,12 @@
     },
     {
       "id": 583302,
-      "nome": "ALEX SOUZA",
+      "nome": "Alex Souza",
       "horariosVagos": []
     },
     {
       "id": 564086,
-      "nome": "ALEXANDRE MELO SOUZA",
+      "nome": "Alexandre Melo",
       "horariosVagos": [
         "09:00",
         "13:00"
@@ -28,12 +28,12 @@
     },
     {
       "id": 565766,
-      "nome": "ANDREIA GONÇALVES REIS",
+      "nome": "Andreia Gonçalves",
       "horariosVagos": []
     },
     {
       "id": 565761,
-      "nome": "ANDREZA ARAUJO DE SOUZA PINTO",
+      "nome": "Andreza Araujo",
       "horariosVagos": [
         "09:00",
         "19:00"
@@ -41,24 +41,24 @@
     },
     {
       "id": 565775,
-      "nome": "CAMPOS ALEX",
+      "nome": "Campos Alex",
       "horariosVagos": []
     },
     {
       "id": 566769,
-      "nome": "Carlos Alberto Rodrigues da Silva Júnior",
+      "nome": "Carlos Alberto",
       "horariosVagos": []
     },
     {
       "id": 566847,
-      "nome": "Fernanda Moreira Lima",
+      "nome": "Fernanda Moreira",
       "horariosVagos": [
         "11:00"
       ]
     },
     {
       "id": 567190,
-      "nome": "GRAZIELE ARAUJO",
+      "nome": "Graziele Araujo",
       "horariosVagos": [
         "10:20"
       ]
@@ -72,12 +72,12 @@
     },
     {
       "id": 567212,
-      "nome": "JULIANA KARLA M CALAÇA",
+      "nome": "Juliana Karla",
       "horariosVagos": []
     },
     {
       "id": 571416,
-      "nome": "KEILLA SILVA DE BRITO",
+      "nome": "Keilla Silva",
       "horariosVagos": [
         "11:00",
         "12:20"
@@ -85,7 +85,7 @@
     },
     {
       "id": 564519,
-      "nome": "MANUELA DA SILVA SENRA",
+      "nome": "Manuela Da",
       "horariosVagos": [
         "09:00",
         "09:40",
@@ -99,7 +99,7 @@
     },
     {
       "id": 571413,
-      "nome": "MONIQUE LIMA DA SILVA PIZZA",
+      "nome": "Monique Lima",
       "horariosVagos": [
         "09:00",
         "11:00",
@@ -109,7 +109,7 @@
     },
     {
       "id": 605780,
-      "nome": "NATÁLIA CRISTINA MOREIRA DE AQUINO ",
+      "nome": "Natália Cristina",
       "horariosVagos": [
         "11:00",
         "13:00",
@@ -124,14 +124,14 @@
     },
     {
       "id": 571423,
-      "nome": "NOEMI NUNES DE OLIVEIRA",
+      "nome": "Noemi Nunes",
       "horariosVagos": [
         "11:00"
       ]
     },
     {
       "id": 572431,
-      "nome": "Patrick Índio Barber ",
+      "nome": "Patrick Índio",
       "horariosVagos": [
         "12:20",
         "13:00",
@@ -143,7 +143,7 @@
     },
     {
       "id": 572107,
-      "nome": "RENATA DOS SANTOS FERNANDES",
+      "nome": "Renata Dos",
       "horariosVagos": [
         "11:00",
         "11:40"
